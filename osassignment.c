@@ -26,7 +26,7 @@ int main()
 			
 		}
 	}
-	printf("\n the students having the no of gifts will be entertained in this order: ****\n");
+	printf("\n the students having the no of gifts will be entertained in this order: ***\n");
 	for (i = 0; i < 10; i++)
 	{
 		printf("%d\t", Array[i]);
